@@ -39,12 +39,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
-### 📊 Github Stats
+ ### 📊 Github Stats    
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview]()
-![Most Used Languages]()
-
 </a>
 
 <br>
