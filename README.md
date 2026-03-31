@@ -52,5 +52,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-### 🛠️ My Projects
+ 🛠️ My Projects
 
