@@ -30,15 +30,19 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-### 🔨 Languages and Tools:
+ ### 🔨 Languages and Tools: 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://isocpp.org/" target="_blank">
+  <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cpp/cpp.svg">
+  </a>  
+   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img align="left" alt="C-Sharp" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/csharp/csharp.svg">                                                                                                                                                                                                                                                                                                         
+</a> 
 
 <br>
-
-
  ### 📊 Github Stats    
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
