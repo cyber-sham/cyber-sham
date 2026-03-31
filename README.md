@@ -10,16 +10,22 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- ### 🧐 About Me
+- 🔭 **Focus:** Currently working as a **SOC Analyst**, monitoring threats and securing digital infrastructures.
+- 🤝 **Collaboration:** I’m looking to collaborate on **AI-Driven Security Solutions** (IDS/IPS, Automated Malware Analysis, or Predictive Threat Intelligence).
+- 🌱 **Learning Path:** Mastering **Python, C++, C#, and JavaScript** to build more robust security tools and exploits.
+- 📚 **Passion:** Dedicated to continuous learning in **Information Security** and **Digital Forensics** during my free time.
+- 💬 **Expertise:** Ask me about SOC operations, threat hunting, or network security.
+
+---
+- 
+- 
+- 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
