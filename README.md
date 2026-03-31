@@ -17,15 +17,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🌱 **Learning Path:** Mastering **Python, C++, C#, and JavaScript** to build more robust security tools and exploits.
 - 📚 **Passion:** Dedicated to continuous learning in **Information Security** and **Digital Forensics** during my free time.
 - 💬 **Expertise:** Ask me about SOC operations, threat hunting, or network security.
-
----
-- 
-- 
-- 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn]()
-- 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads]() to see the book I have read
 
 <br>
