@@ -11,13 +11,15 @@
 
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">    
   </a>
+  
   <a href="https://www.Instagram.com/@Sham_cyber">
 
   <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=Instagram &logoColor=white" alt="Instagram">    
   </a>
+  
  <a href="https://www.x.com/@Sham_cyber">
 
-  <img src="https://img.shields.io/badge/x-FF0000?style=for-the-badge&logo=x&logoColor=white" alt="x">    
+  <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" alt="x">    
   </a>
   
   
