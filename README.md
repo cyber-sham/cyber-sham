@@ -14,7 +14,7 @@
   
   <a href="https://www.Instagram.com/@Sham_cyber">
 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram &logoColor=white" alt="Instagram">    
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">    
   </a>
   
  <a href="https://www.x.com/@Sham_cyber">
