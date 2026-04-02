@@ -3,7 +3,7 @@
   <h1>👋 مرحباً، أنا منذر نايفه</h1>
   <p><strong>SOC Analyst | Digital Forensics Investigator | Developer</strong></p>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USER">
+  <a href="https://www.linkedin.com/in/monzer-naif">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/@Sham_cyber">
