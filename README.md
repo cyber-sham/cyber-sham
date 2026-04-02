@@ -43,13 +43,33 @@
 
 ---
 
-### 🔍 اهتماماتي الحالية
-- 🛡️ تحليل البرمجيات الخبيثة (Malware Analysis) باستخدام Flare VM.
-- 🤖 أتمتة العمليات الأمنية باستخدام Python ونماذج الذكاء الاصطناعي المحلية.
-- 🏗️ بناء بيئات المختبرات الافتراضية واختبار الثغرات مثل SQL Injection.
+## 🔍 اهتماماتي الحالية
 
-### 📊 إحصائيات GitHub
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Malware_Analysis-Flare_VM-blue?style=for-the-badge&logo=target&logoColor=white" />
+        <p>تحليل البرمجيات الخبيثة المتقدمة وتفكيك الأكواد الضارة.</p>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python_Automation-AI_Security-red?style=for-the-badge&logo=python&logoColor=white" />
+        <p>أتمتة عمليات الـ SOC وبناء نماذج ذكاء اصطناعي دفاعية.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Vulnerability_Research-SQL_Injection-orange?style=for-the-badge&logo=owasp&logoColor=white" />
+        <p>بناء مختبرات لاختبار الاختراق واكتشاف الثغرات الأمنية.</p>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Digital_Forensics-Incident_Response-green?style=for-the-badge&logo=linux&logoColor=white" />
+        <p>التحقيق الرقمي والاستجابة للحوادث السيبرانية.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="https://github.com/cyber-sham">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-sham&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+
+
+
