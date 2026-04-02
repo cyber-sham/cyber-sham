@@ -48,6 +48,7 @@
 - 🏗️ بناء بيئات المختبرات الافتراضية واختبار الثغرات مثل SQL Injection.
 
 ### 📊 إحصائيات GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Stats" />
+
+<p align="https://github.com/cyber-sham">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyber-sham&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
