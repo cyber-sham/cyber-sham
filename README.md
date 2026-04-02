@@ -8,8 +8,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/@Sham_cyber">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">    
   </a>
+  <a href="https://www.Instagram.com/@Sham_cyber">
+
+  <img src="https://img.shields.io/badge/instagram-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram">    
+  </a>
+  
+   
 </div>
 
 <br>
