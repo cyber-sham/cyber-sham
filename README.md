@@ -33,7 +33,7 @@
     <tr>
       <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&//color/48/wireshark.png" width="40" alt="Wireshark" /><br />Wireshark</td>
       <td align="center" width="96"><img src="https://img.icons8.com/color/48/splunk.png" width="40" alt="Splunk" /><br />Splunk</td>
-      <td align="center" width="96"><img src="https://img.icons8.com/color/48/shield.png" width="40" alt="Wazuh" /><br />Wazuh</td>
+      <td align="center" width="96"><img src="https://img.icons8.com/?size=100&id=nCslAc8CkggI&format=png&/color/48/shield.png" width="40" alt="Wazuh" /><br />Wazuh</td>
       <td align="center" width="96"><img src="https://img.icons8.com/color/48/security-configuration.png" width="40" alt="Snort" /><br />Snort</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /><br />Docker</td>
     </tr>
