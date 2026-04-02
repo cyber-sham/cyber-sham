@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <h1>👋 مرحباً، أنا منذر نايفه</h1>
   <p><strong>SOC Analyst | Digital Forensics Investigator | Developer</strong></p>
